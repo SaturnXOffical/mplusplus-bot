@@ -10,7 +10,7 @@ const botcodever = '1.3'
 
 const role = '850968859434680381'
 
-const token = 'ODQ1OTExMTUyMDkyNzc0NDUw.YKn2Jg.FzvsmnBR_9jxvFd1BBUlhBqIFlw'
+const token = ''
 
 client.on('message', message=>{
 
