@@ -53,4 +53,4 @@ client.on('ready', async () => {
 });
 
 
-client.login(token);   // you can get the token from settings.json (use your own)
+client.login(token);  
